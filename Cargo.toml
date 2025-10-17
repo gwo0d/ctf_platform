@@ -1,0 +1,9 @@
+[package]
+name = "ctf_platform"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+argon2 = "0.5.3"
+hex = "0.4.3"
+rocket = "0.5.1"
